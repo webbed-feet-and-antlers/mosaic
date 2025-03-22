@@ -1,6 +1,6 @@
 {
   "name": "@webbed-feet-and-antlers/mosaic-core",
-  "version": "0.15.0",
+  "version": "0.15.2",
   "description": "Scalable and extensible linked data views.",
   "keywords": [
     "mosaic",

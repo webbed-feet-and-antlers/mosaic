@@ -1,6 +1,6 @@
 {
   "name": "@webbed-feet-and-antlers/mosaic-plot",
-  "version": "0.15.0",
+  "version": "0.15.2",
   "description": "A Mosaic-powered plotting framework based on Observable Plot.",
   "keywords": [
     "data",

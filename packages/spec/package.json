@@ -1,6 +1,6 @@
 {
   "name": "@webbed-feet-and-antlers/mosaic-spec",
-  "version": "0.15.0",
+  "version": "0.15.2",
   "description": "Declarative specification of Mosaic-powered applications.",
   "keywords": [
     "mosaic",

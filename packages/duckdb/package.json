@@ -1,6 +1,6 @@
 {
   "name": "@webbed-feet-and-antlers/mosaic-duckdb",
-  "version": "0.15.0",
+  "version": "0.15.2",
   "description": "A Promise-based DuckDB API and Node.js data server.",
   "keywords": [
     "duckdb",
