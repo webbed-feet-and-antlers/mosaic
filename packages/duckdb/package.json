@@ -1,5 +1,5 @@
 {
-  "name": "@uwdata/mosaic-duckdb",
+  "name": "@webbed-feet-and-antlers/mosaic-duckdb",
   "version": "0.15.0",
   "description": "A Promise-based DuckDB API and Node.js data server.",
   "keywords": [
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/uwdata/mosaic.git"
+    "url": "https://github.com/webbed-feet-and-antlers/mosaic.git"
   },
   "bin": {
     "to-arrow": "./bin/to-arrow.js",

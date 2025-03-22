@@ -1,5 +1,5 @@
 {
-  "name": "@uwdata/mosaic-plot",
+  "name": "@webbed-feet-and-antlers/mosaic-plot",
   "version": "0.15.0",
   "description": "A Mosaic-powered plotting framework based on Observable Plot.",
   "keywords": [
@@ -17,7 +17,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/uwdata/mosaic.git"
+    "url": "git@github.com:webbed-feet-and-antlers/mosaic-plot.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/webbed-feet-and-antlers"
   },
   "scripts": {
     "lint": "eslint src test",

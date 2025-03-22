@@ -1,5 +1,5 @@
 {
-  "name": "@uwdata/mosaic-sql",
+  "name": "@webbed-feet-and-antlers/mosaic-sql",
   "version": "0.15.0",
   "description": "SQL query construction and analysis.",
   "keywords": [
@@ -16,7 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/uwdata/mosaic.git"
+    "url": "git@github.com:webbed-feet-and-antlers/mosaic-sql.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/webbed-feet-and-antlers"
   },
   "scripts": {
     "prebuild": "rimraf dist && mkdir dist",

@@ -7,7 +7,10 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/uwdata/mosaic.git"
+    "url": "git@github.com:webbed-feet-and-antlers/mosaic.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/webbed-feet-and-antlers"
   },
   "scripts": {
     "docs:dev": "vitepress dev docs",

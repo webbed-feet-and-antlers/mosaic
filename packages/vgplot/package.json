@@ -1,5 +1,5 @@
 {
-  "name": "@uwdata/vgplot",
+  "name": "@webbed-feet-and-antlers/vgplot",
   "version": "0.15.0",
   "description": "An API for interactive Mosaic-powered visualizations and dashboards.",
   "keywords": [
@@ -19,7 +19,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/uwdata/mosaic.git"
+    "url": "git@github.com:webbed-feet-and-antlers/mosaic-vgplot.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/webbed-feet-and-antlers"
   },
   "scripts": {
     "lint": "eslint src test",

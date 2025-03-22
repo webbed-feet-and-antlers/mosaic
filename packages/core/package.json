@@ -1,5 +1,5 @@
 {
-  "name": "@uwdata/mosaic-core",
+  "name": "@webbed-feet-and-antlers/mosaic-core",
   "version": "0.15.0",
   "description": "Scalable and extensible linked data views.",
   "keywords": [
@@ -18,7 +18,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/uwdata/mosaic.git"
+    "url": "git@github.com:webbed-feet-and-antlers/mosaic-core.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/webbed-feet-and-antlers"
   },
   "scripts": {
     "prebuild": "rimraf dist && mkdir dist",
